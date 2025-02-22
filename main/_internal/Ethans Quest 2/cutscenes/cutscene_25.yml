@@ -1,0 +1,9 @@
+scenes: [4] 
+msgs: ["I heard there", "was treasure in", "this volcano.", "Ok cool...", "Lets go get it!"]
+types: ["D", "D", "D", "D", "D"]  #D is dialogue 
+portraits: ["ethan", "ethan2", "ethan3", "spark", "spark2"]
+pos: [0, 0]
+img: "sprites/cutscenes/none.png"
+character: "none"
+music: "music/lava.wav"
+musicend: "music/lava.wav"

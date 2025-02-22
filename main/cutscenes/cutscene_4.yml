@@ -1,0 +1,9 @@
+scenes: [3] 
+msgs: ["Where am i now?", "Hmm....", "WHO GOES THERE!", "oh no....."]
+types: ["D", "D", "D", "D"]  #D is dialogue 
+portraits: ["ethan", "ethan2", "ruinsMaster", "ethan3"]
+pos: [-128, 0]
+img: "sprites/cutscenes/ruinsMaster.png"
+character: "ruinsMaster1"
+music: "music/CoveRuins.wav"
+musicend: "music/run_away.wav"

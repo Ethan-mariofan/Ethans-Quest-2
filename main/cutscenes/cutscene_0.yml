@@ -1,0 +1,9 @@
+scenes: [5] 
+msgs: ["Heres the story", "Ethan was in bed", "until. He saw a portal", "He decided to go in!", "He landed on a beach", "Now the story begins."]
+types: ["D", "D", "D", "D", "D", "D"]  #D is dialogue 
+portraits: ["nar", "nar", "nar", "nar", "nar", "nar"]
+pos: [0, 0]
+img: "sprites/cutscenes/none.png"
+character: "none"
+music: "music/intro.wav"
+musicend: "music/chapter_start.wav"

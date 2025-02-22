@@ -1,0 +1,9 @@
+scenes: [3] 
+msgs: ["Hi what have you", "got there?", "Im not sure.", "Oh!"]
+types: ["D", "D", "D", "D"]  #D is dialogue 
+portraits: ["penguin", "penguin2", "ethan", "penguin3"]
+pos: [600, 0]
+img: "sprites/cutscenes/penguin.png"
+character: "penguin"
+music: "music/snow.wav"
+musicend: "music/snow.wav"

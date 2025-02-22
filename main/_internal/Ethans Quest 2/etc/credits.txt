@@ -1,0 +1,27 @@
+code:
+    Ethan Mallie
+    Marcus
+    Pygame Team
+    James
+
+Sprites: 
+    Ethan Mallie
+
+
+Story:
+    Ethan Mallie
+
+
+Music/Sounds:
+    Ethan Mallie
+    Nintendo
+    SMBX2 Team
+    Donkey Kong Team
+
+Beta Testing:
+    Ethan Mallie
+    Marcus
+
+Characters:
+    Nintendo
+    Ethan Mallie

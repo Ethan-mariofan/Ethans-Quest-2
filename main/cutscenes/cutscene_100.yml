@@ -1,0 +1,9 @@
+scenes: [5] 
+msgs: ["Hmm", "I have searched", "for a while", "Im starting to get", "worried...", "HMMMMMM?"]
+types: ["D", "D", "D", "D", "D", "D"]  #D is dialogue 
+portraits: ["ethan", "ethan2", "ethan3", "ethan4", "ethan5", "ethan6"]
+pos: [0, 0]
+img: "sprites/cutscenes/none.png"
+character: "none"
+music: "music/intro.wav"
+musicend: "music/chapter_start.wav"

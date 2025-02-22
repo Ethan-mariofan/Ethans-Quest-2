@@ -1,0 +1,9 @@
+scenes: [1] #2 scenes, 0, and 1
+msgs: ["Omg my first star.", "Cool!"]
+types: ["D", "D"]  #D is dialogue 
+portraits: ["ethan", "ethan2"]
+pos: [0, 0]
+img: "sprites/cutscenes/none.png"
+character: "none"
+music: "music/CoastLine.wav"
+musicend: "music/CoastLine.wav"

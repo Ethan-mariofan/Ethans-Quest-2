@@ -1,0 +1,9 @@
+scenes: [5]
+msgs: ["Huh???", "NO TREASPASSING", "Uh well listen..", "I need to find a", "missing person...", "Oh Well thats ok!"]
+types: ["D", "D", "D", "D", "D", "D"]  #D is dialogue 
+portraits: ["ethan", "gear", "ethan3", "ethan4", "ethan5", "gear2"]
+pos: [600, 300] 
+img: "sprites/cutscenes/gear.png"
+character: "gear"
+music: "music/factory.wav"
+musicend: "music/factory.wav"

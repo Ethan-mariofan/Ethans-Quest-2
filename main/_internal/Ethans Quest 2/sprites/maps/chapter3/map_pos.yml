@@ -1,0 +1,13 @@
+map: {"13": [1877, 2325], "14":[2067, 2543], "15":[2468, 2543], "16":[2729, 1667], "17":[2473, 1681], "18":[2137, 1681]}
+
+node13_paths: {UP_PATH: [], DOWN_PATH: [[1911, 2567], [2067, 2543]], RIGHT_PATH: [], LEFT_PATH: [], COMPLETE: [0, 14, 0, 0]}   
+
+node14_paths: {UP_PATH: [], DOWN_PATH: [], RIGHT_PATH: [[2468, 2543]], LEFT_PATH: [[1911, 2567], [1877, 2325]], COMPLETE: [0, 0, 15, 13]}  
+
+node15_paths: {UP_PATH: [], DOWN_PATH: [], RIGHT_PATH: [[2656, 2590], [2729, 1667]], LEFT_PATH: [[2067, 2543]], COMPLETE: [0, 0, 16, 14]}  
+  
+node16_paths: {UP_PATH: [], DOWN_PATH: [[2656, 2590], [2468, 2543]], RIGHT_PATH: [], LEFT_PATH: [[2473, 1681]], COMPLETE: [0, 15, 0, 17]} 
+
+node17_paths: {UP_PATH: [], DOWN_PATH: [], RIGHT_PATH: [[2729, 1667]], LEFT_PATH: [[2137, 1681]], COMPLETE: [0, 0, 16, 18]}   
+
+node18_paths: {UP_PATH: [], DOWN_PATH: [], RIGHT_PATH: [[2473, 1681]], LEFT_PATH: [], COMPLETE: [0, 0, 17, 19]}   #19 is next chapter 

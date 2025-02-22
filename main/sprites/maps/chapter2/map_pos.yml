@@ -1,0 +1,17 @@
+map: {"7": [1555, 1943], "8":[1746, 2093], "9":[1951, 2657], "10":[2008, 1867], "11":[2972, 1939], "12":[3269, 2225]}
+
+node7_paths: {UP_PATH: [], DOWN_PATH: [[1565, 2115], [1746, 2093]], RIGHT_PATH: [], LEFT_PATH: [], COMPLETE: [0, 8, 0, 0]}
+
+node8_paths: {UP_PATH: [[1805, 1901], [2008, 1867]], DOWN_PATH: [], RIGHT_PATH: [[1979, 2123], [1951, 2657]], LEFT_PATH: [[1565, 2115], [1555, 1943]],  COMPLETE: [10, 0, 9, 7]}
+
+node9_paths: {UP_PATH: [[1968, 2122], [1746, 2093]], DOWN_PATH: [], RIGHT_PATH: [], LEFT_PATH: [], COMPLETE: [8, 0, 0, 0]}
+
+node10_paths: {UP_PATH: [], DOWN_PATH: [], RIGHT_PATH: [[2972, 1939]], LEFT_PATH: [[1798, 1901], [1746, 2093]], COMPLETE: [0, 0, 11, 8]}
+
+node11_paths: {UP_PATH: [], DOWN_PATH: [[2975, 2265], [3269, 2225]], RIGHT_PATH: [], LEFT_PATH: [[2008, 1867]], COMPLETE: [0, 12, 0, 10]}
+  
+node12_paths: {UP_PATH: [], DOWN_PATH: [], RIGHT_PATH: [], LEFT_PATH: [[2975, 2265], [2972, 1939]], COMPLETE: [0, 0, 13, 11]} #13 is next chapter
+
+
+#EXAMPLE    
+#node12_paths: {UP_PATH: [], DOWN_PATH: [], RIGHT_PATH: [], LEFT_PATH: [], COMPLETE: [0, 0, 0, 0]}  

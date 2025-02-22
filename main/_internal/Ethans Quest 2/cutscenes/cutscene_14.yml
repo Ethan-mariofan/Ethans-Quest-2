@@ -1,0 +1,9 @@
+scenes: [3] 
+msgs: ["Huh whats this?", "It looks like a", "crystal...", "I guess ill take it."]
+types: ["D", "D", "D", "D"]  #D is dialogue 
+portraits: ["ethan", "ethan2", "ethan3", "ethan4"]
+pos: [500, 690]
+img: "sprites/cutscenes/crystal.png"
+character: "crystal"
+music: "music/snow.wav"
+musicend: "music/snow.wav"

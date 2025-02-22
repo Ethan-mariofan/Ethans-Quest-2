@@ -1,0 +1,9 @@
+scenes: [5] 
+msgs: ["Wow we defeated", "him..", "First we saved", "the world then", "we saved ourselves!", "Cool!!!"]
+types: ["D", "D", "D", "D", "D", "D"]  #D is dialogue 
+portraits: ["ethan", "ethan2", "spark", "spark2", "spark3", "ethan3"]
+pos: [0, 0]
+img: "sprites/cutscenes/none.png"
+character: "none"
+music: "music/ending.wav"
+musicend: "music/ending.wav"

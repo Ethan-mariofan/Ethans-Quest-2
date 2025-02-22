@@ -1,0 +1,9 @@
+scenes: [7] 
+msgs: ["I used the crystal", "to get into this", "igloo...", "You fell for", "my trap!!! HAHAHA!!!", "I led you right to me.", "Im an idiot...", "Now where is Spark!"]
+types: ["D", "D", "D", "D", "D", "D", "D", "D"]  #D is dialogue 
+portraits: ["ethan", "ethan2", "ethan3", "starly", "starly2", "starly3", "ethan4", "starly4"]
+pos: [0, 0]
+img: "sprites/cutscenes/none.png"
+character: "none"
+music: "music/encounter_with_starly.wav"
+musicend: "music/starly_boss_fight.wav"

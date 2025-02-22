@@ -1,0 +1,9 @@
+scenes: [3]
+msgs: ["I must warn Spark", "about what Starly", "said...", "But where is he?"]
+types: ["D", "D", "D", "D"]  #D is dialogue 
+portraits: ["ethan", "ethan2", "ethan3", "ethan4"]
+pos: [0, 0] 
+img: "sprites/cutscenes/none.png"
+character: "none"
+music: "music/western.wav"
+musicend: "music/western.wav"

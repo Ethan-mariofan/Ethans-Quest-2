@@ -1,0 +1,9 @@
+scenes: [2] 
+msgs: ["Hmmm... Where did all", "these pumpkins come", "from???"]
+types: ["D", "D", "D"]  #D is dialogue 
+portraits: ["ethan", "ethan2", "ethan3"]
+pos: [0, 0]
+img: "sprites/cutscenes/none.png"
+character: "none"
+music: "music/pumpkin.wav"
+musicend: "music/pumpkin.wav"

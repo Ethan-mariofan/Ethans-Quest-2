@@ -1,0 +1,9 @@
+scenes: [4] 
+msgs: ["Oh no i think", "the volcano is", "erupting!!!", "We have to get", "out of here..."]
+types: ["D", "D", "D", "D", "D"]  #D is dialogue 
+portraits: ["ethan", "ethan2", "ethan3", "spark", "spark2"]
+pos: [0, 0]
+img: "sprites/cutscenes/none.png"
+character: "none"
+music: "music/run_away.wav"
+musicend: "music/run_away.wav"

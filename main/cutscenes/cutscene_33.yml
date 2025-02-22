@@ -1,0 +1,9 @@
+scenes: [11] 
+msgs: ["Why do you want", "to kill us???", "BECAUSE!!", "Spark almost killed", "me!!!", "It was an accident.", "I was cutting wood", "and i almost", "cut you...", "UGH... Any last words!", "Im sorry...", "....."]
+types: ["D", "D", "D", "D", "D", "D", "D", "D", "D", "D", "D", "D"]  #D is dialogue 
+portraits: ["ethan", "ethan2", "boss", "boss2", "boss3", "spark", "spark2", "spark3", "spark4", "boss4", "spark5", "ethan3"]
+pos: [0, 0]
+img: "sprites/cutscenes/none.png"
+character: "none"
+music: "music/we_are_evil.wav"
+musicend: "music/final_boss.wav"

@@ -1,0 +1,9 @@
+scenes: [8] 
+msgs: ["Hi Spark.", "Just checking in", "on you. Are you ok?", "Ya im ok", "but im worried", "with the whole", "Starly situation...", "You can join me", "Sure!"]
+types: ["D", "D", "D", "D", "D", "D", "D", "D", "D"]  #D is dialogue 
+portraits: ["ethan", "ethan2", "ethan3", "spark", "spark2", "spark3", "spark4", "ethan4", "spark5"]
+pos: [500, 320]
+img: "sprites/cutscenes/spark.png"
+character: "spark_pumpkin"
+music: "music/pumpkin.wav"
+musicend: "music/pumpkin.wav"

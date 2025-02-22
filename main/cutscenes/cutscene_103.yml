@@ -1,0 +1,9 @@
+scenes: [6] 
+msgs: ["Hmmm...", "Meanwhile...", "Hey boss!", "Whats my next task?", "Ethan has", "gotton in the way...", "I need you to kill him."]
+types: ["D", "D", "D", "D", "D", "D", "D"]  #D is dialogue 
+portraits: ["ethan", "nar", "starly", "starly2", "boss", "boss2", "boss3"]
+pos: [0, 0]
+img: "sprites/cutscenes/none.png"
+character: "none"
+music: "music/intro.wav"
+musicend: "music/chapter_start.wav"

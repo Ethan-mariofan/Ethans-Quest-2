@@ -1,0 +1,7 @@
+map: {"31": [2203, 2459], "32":[2203, 2274], "33":[2203, 2107]} 
+
+node31_paths: {UP_PATH: [[2203, 2274]], DOWN_PATH: [], RIGHT_PATH: [], LEFT_PATH: [], COMPLETE: [32, 0, 0, 0]}  
+
+node32_paths: {UP_PATH: [[2203, 2107]], DOWN_PATH: [[2203, 2459]], RIGHT_PATH: [], LEFT_PATH: [], COMPLETE: [33, 31, 0, 0]}  
+
+node33_paths: {UP_PATH: [], DOWN_PATH: [[2203, 2274]], RIGHT_PATH: [], LEFT_PATH: [], COMPLETE: [34, 32, 0, 0]} #34 is not a level  

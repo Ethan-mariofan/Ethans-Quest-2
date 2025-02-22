@@ -1,0 +1,10 @@
+scenes: [8] 
+msgs: ["Who are you?", "Im the one", "who sent Starly", "to kill Spark!!!", "She failed...", "YOUR EVIL!!!", "SO ILL DO IT", "MYSELF", "AHHH...!!!"]
+types: ["D", "D", "D", "D", "D", "D", "D", "D", "D"]  #D is dialogue 
+portraits: ["ethan", "boss", "boss2", "boss3", "boss4", "ethan2", "boss5", "boss6", "boss7"]
+pos: [620, 370]
+img: "sprites/cutscenes/boss.png"
+character: "boss"
+music: "music/dark.wav"
+musicend: "music/dark.wav"
+

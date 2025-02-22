@@ -1,0 +1,9 @@
+scenes: [7]
+msgs: ["HEHEHE!!!", "Help me!!!", "Let go of him!", "No way!!!!!", "To save Spark", "i will fight you", "or you can let", "him go!"]
+types: ["D", "D", "D", "D", "D", "D", "D", "D"]  #D is dialogue 
+portraits: ["robber", "spark", "ethan", "robber2", "ethan2", "ethan3", "ethan4", "ethan5"]
+pos: [500, 0] 
+img: "sprites/cutscenes/sparkcage.png"
+character: "spark2"
+music: "music/robber.wav"
+musicend: "music/boss_robber.wav"

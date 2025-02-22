@@ -1,0 +1,9 @@
+scenes: [4] 
+msgs: ["I heard there was", "a haunted house", "near by.", "Do you want to go?", "YES!!!"]
+types: ["D", "D", "D", "D", "D"]  #D is dialogue 
+portraits: ["ethan", "ethan2", "ethan3", "ethan4", "spark"]
+pos: [0, 0]
+img: "sprites/cutscenes/none.png"
+character: "none"
+music: "music/pumpkin.wav"
+musicend: "music/pumpkin.wav"

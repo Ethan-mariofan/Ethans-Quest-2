@@ -1,0 +1,9 @@
+scenes: [3] 
+msgs: ["We are in!", "We need to", "find Starly...", "And stop her."]
+types: ["D", "D", "D", "D"]  #D is dialogue 
+portraits: ["ethan", "ethan2", "ethan3", "spark"]
+pos: [0, 0]
+img: "sprites/cutscenes/none.png"
+character: "none"
+music: "music/dark.wav"
+musicend: "music/dark.wav"

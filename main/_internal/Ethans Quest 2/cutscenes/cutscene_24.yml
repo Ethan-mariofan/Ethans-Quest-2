@@ -1,0 +1,9 @@
+scenes: [4] 
+msgs: ["Welcome to the", "haunted house", "HAHAHA!!!", "This wasn't a good", "idea..."]
+types: ["D", "D", "D", "D", "D"]  #D is dialogue 
+portraits: ["phantom", "phantom2", "phantom3", "spark", "spark2"]
+pos: [0, 0]
+img: "sprites/cutscenes/none.png"
+character: "none"
+music: "music/ScaryThingsHappen.wav"
+musicend: "music/phantom.wav"

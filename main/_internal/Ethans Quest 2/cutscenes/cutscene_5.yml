@@ -1,0 +1,11 @@
+scenes: [8] 
+msgs: ["GRRRR", "I wanted to stop", "you from getting", "those stars!!!", "But why?", "Do you need them?", "YES TO KILL SPARK!", "WHAT THE!!!", "HAHAHA!!!"]
+types: ["D", "D", "D", "D", "D", "D", "D", "D", "D"]  #D is dialogue 
+portraits: ["starly", "starly2", "starly3", "starly4", "ethan", "ethan2", "starly5", "ethan3", "starly6"]
+pos: [129, 7]
+img: "sprites/cutscenes/starly.png"
+character: "starly5"
+music: "music/encounter_with_starly.wav"
+musicend: "music/CoveRuins.wav"
+
+#SPARK IS GOING TO COME LATER IN THE STORY

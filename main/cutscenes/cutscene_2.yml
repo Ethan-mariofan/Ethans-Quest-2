@@ -1,0 +1,9 @@
+scenes: [7] 
+msgs: ["Another adventure...", "The adventure is..", "I need to get home.", "HAHAHA!!!", "???", "Im here to take away", "your power stars.", "BE WARNED!!!"]
+types: ["D", "D", "D", "D", "D", "D", "D", "D"]  #D is dialogue 
+portraits: ["ethan", "ethan2", "ethan3", "starly", "ethan4", "starly2", "starly3", "starly4"]
+pos: [500, 30]
+img: "sprites/cutscenes/starly.png"
+character: "starly_for_cutscene_2"
+music: "music/encounter_with_starly.wav"
+musicend: "music/CoastLine.wav"

@@ -1,0 +1,9 @@
+scenes: [6] 
+msgs: ["I wonder was that", "robber.. Starly?", "I dont think so...", "I defeated Starly..", "They have no idea", "whats in store for", "them... HAHAHA!!!"]
+types: ["D", "D", "D", "D", "D", "D", "D"]  #D is dialogue 
+portraits: ["spark", "spark2", "ethan", "ethan2", "starly", "starly2", "starly3"]
+pos: [0, 0]
+img: "sprites/cutscenes/none.png"
+character: "none"
+music: "music/intro.wav"
+musicend: "music/chapter_start.wav"

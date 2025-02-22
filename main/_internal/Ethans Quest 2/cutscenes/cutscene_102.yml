@@ -1,0 +1,9 @@
+scenes: [6] 
+msgs: ["Huh the bridge", "is broken..", "I guess ill jump", "over it...", "I landed safely!", "Whats with all the", "pumpkins?"]
+types: ["D", "D", "D", "D", "D", "D", "D"]  #D is dialogue 
+portraits: ["ethan", "ethan2", "ethan3", "ethan4", "ethan5", "ethan6", "ethan7"]
+pos: [0, 0]
+img: "sprites/cutscenes/none.png"
+character: "none"
+music: "music/intro.wav"
+musicend: "music/chapter_start.wav"

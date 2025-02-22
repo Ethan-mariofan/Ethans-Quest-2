@@ -1,0 +1,9 @@
+scenes: [5] 
+msgs: ["We made it out.", "Wait whats that?", "I think it maybe", "where starly is.", "This may be", "dangerous..."]
+types: ["D", "D", "D", "D", "D", "D"]  #D is dialogue 
+portraits: ["ethan", "ethan2", "spark", "spark2", "ethan3", "ethan4"]
+pos: [0, 0]
+img: "sprites/cutscenes/none.png"
+character: "none"
+music: "music/intro.wav"
+musicend: "music/chapter_start.wav"

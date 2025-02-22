@@ -1,0 +1,13 @@
+map: {"25": [1894, 1627], "26":[2102, 1741], "27":[1992, 1866], "28":[2104, 2538], "29":[2474, 2721], "30":[2765, 2721]}
+
+node25_paths: {UP_PATH: [], DOWN_PATH: [[1891, 1761], [2102, 1741]], RIGHT_PATH: [], LEFT_PATH: [], COMPLETE: [0, 26, 0, 0]}  
+
+node26_paths: {UP_PATH: [], DOWN_PATH: [], RIGHT_PATH: [[2233, 1782], [2233, 1907], [1992, 1866]], LEFT_PATH: [[1891, 1761], [1894, 1627]], COMPLETE: [0, 0, 27, 25]}  
+
+node27_paths: {UP_PATH: [], DOWN_PATH: [], RIGHT_PATH: [[2233, 1907], [2233, 1782], [2102, 1741]], LEFT_PATH: [[1852, 1891], [1936, 2542], [2104, 2538]], COMPLETE: [0, 0, 26, 28]}  
+
+node28_paths: {UP_PATH: [], DOWN_PATH: [], RIGHT_PATH: [[2351, 2608], [2351, 2739], [2474, 2721]], LEFT_PATH: [[1936, 2542], [1852, 1891], [1992, 1866]], COMPLETE: [0, 0, 29, 27]}  
+
+node29_paths: {UP_PATH: [], DOWN_PATH: [], RIGHT_PATH: [[2765, 2721]], LEFT_PATH: [[2351, 2739], [2351, 2608], [2104, 2538]], COMPLETE: [0, 0, 30, 28]}  
+
+node30_paths: {UP_PATH: [], DOWN_PATH: [], RIGHT_PATH: [], LEFT_PATH: [[2474, 2721]], COMPLETE: [0, 0, 31, 29]}   #31 is next chapter

@@ -1,0 +1,9 @@
+scenes: [9]
+msgs: ["Hi Ethan nice", "to see you again.", "Same but i have", "to warn you...", "Starly is trying", "to kill you!", "WHAT?!", "Yep its insane...", "Where did you go..", "You got kidnapped?"]
+types: ["D", "D", "D", "D", "D", "D", "D", "D", "D", "D"]  #D is dialogue 
+portraits: ["spark", "spark2", "ethan", "ethan2", "ethan3", "ethan4", "spark3", "ethan5", "ethan6", "ethan7"]
+pos: [500, 200] 
+img: "sprites/cutscenes/spark.png"
+character: "spark"
+music: "music/sparks_theme.wav"
+musicend: "music/western.wav"

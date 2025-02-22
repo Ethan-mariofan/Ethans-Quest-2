@@ -1,0 +1,9 @@
+scenes: [7] 
+msgs: ["Oh no...", "HAHA You do know", "this treasure is a", "way to kill you!", "Time to open it.", "OH NO", "Wait its empty!!", "UGH!!!"]
+types: ["D", "D", "D", "D", "D", "D", "D", "D"]  #D is dialogue 
+portraits: ["ethan", "starly", "starly2", "starly3", "starly4", "spark", "starly5", "starly6"]
+pos: [500, 400]
+img: "sprites/cutscenes/starly.png"
+character: "starly_lava"
+music: "music/encounter_with_starly.wav"
+musicend: "music/lava.wav"
